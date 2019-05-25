@@ -13,7 +13,7 @@ difference according to degree of parallelism by matrix multiplication.
 
 ### 1. System Environment
 
-![sysenv](C:\Users\시원\Desktop\git\MPI\img\sysenv.png)
+![sysenv](https://github.com/ssibongee/MPI/blob/master/img/sysenv.png?raw=true)
 
 Using 4 PCs in Computer Labs Yonsei Univ WJ
 
@@ -23,11 +23,11 @@ Using 4 PCs in Computer Labs Yonsei Univ WJ
 
 ### 2. Testing
 
-![test_c](C:\Users\시원\Desktop\git\MPI\img\test_c.png)
+![test_c](https://github.com/ssibongee/MPI/blob/master/img/test_c.png?raw=true)
 
 test code to verify that our system environment is correctly built
 
-![](C:\Users\시원\Desktop\git\MPI\img\test_r.png)
+![](https://github.com/ssibongee/MPI/blob/master/img/test_r.png?raw=true)
 
 it can be confirmed that it works correctly.
 
@@ -51,9 +51,9 @@ it can be confirmed that it works correctly.
 
 **experiment results**
 
-![ex1_1](C:\Users\시원\Desktop\git\MPI\img\ex1_1.png)
+![ex1_1](https://github.com/ssibongee/MPI/blob/master/img/ex1_1.png?raw=true)
 
-![ex1_2](C:\Users\시원\Desktop\git\MPI\img\ex1_2.png)
+![ex1_2](https://github.com/ssibongee/MPI/blob/master/img/ex1_2.png?raw=true)
 
 
 
@@ -73,9 +73,9 @@ it can be confirmed that it works correctly.
 
 **experiment results**
 
-![ex2_1](C:\Users\시원\Desktop\git\MPI\img\ex2_1.png)
+![ex2_1](https://github.com/ssibongee/MPI/blob/master/img/ex2_1.png?raw=true)
 
-![ex2_2](C:\Users\시원\Desktop\git\MPI\img\ex2_2.png)
+![ex2_2](https://github.com/ssibongee/MPI/blob/master/img/ex2_2.png?raw=true)
 
 
 
@@ -95,9 +95,9 @@ it can be confirmed that it works correctly.
 
 **experiment results**
 
-![ex3_1](C:\Users\시원\Desktop\git\MPI\img\ex3_1.png)
+![ex3_1](https://github.com/ssibongee/MPI/blob/master/img/ex3_1.png?raw=true)
 
-![ex3_2](C:\Users\시원\Desktop\git\MPI\img\ex3_2.png)
+![ex3_2](https://github.com/ssibongee/MPI/blob/master/img/ex3_2.png?raw=true)
 
 
 
@@ -117,7 +117,7 @@ it can be confirmed that it works correctly.
 
 **experiment results**
 
-![ex4_1](C:\Users\시원\Desktop\git\MPI\img\ex4_1.png)
+![ex4_1](https://github.com/ssibongee/MPI/blob/master/img/ex4_1.png?raw=true)
 
 
 
@@ -129,7 +129,7 @@ it can be confirmed that it works correctly.
 
 **Experiment 1**
 
-![eff_1](C:\Users\시원\Desktop\git\MPI\img\eff_1.PNG)
+![eff_1](https://github.com/ssibongee/MPI/blob/master/img/eff_1.PNG?raw=true)
 
 
 
@@ -137,7 +137,7 @@ it can be confirmed that it works correctly.
 
 **Experiment 2**
 
-![eff_2](C:\Users\시원\Desktop\git\MPI\img\eff_2.PNG)
+![eff_2](https://github.com/ssibongee/MPI/blob/master/img/eff_2.PNG?raw=true)
 
 
 
@@ -145,7 +145,7 @@ it can be confirmed that it works correctly.
 
 **Experiment 3**
 
-![eff_3](C:\Users\시원\Desktop\git\MPI\img\eff_3.PNG)
+![eff_3](https://github.com/ssibongee/MPI/blob/master/img/eff_3.PNG?raw=true)
 
 
 
@@ -153,7 +153,7 @@ it can be confirmed that it works correctly.
 
 **Experiment 4**
 
-![eff_4](C:\Users\시원\Desktop\git\MPI\img\eff_4.PNG)
+![eff_4](https://github.com/ssibongee/MPI/blob/master/img/eff_4.PNG?raw=true)
 
 
 
@@ -161,5 +161,4 @@ it can be confirmed that it works correctly.
 
 **Experiments  Compare 1 to 3**
 
-![eff_cmp](C:\Users\시원\Desktop\git\MPI\img\eff_cmp.PNG)
-
+![eff_cmp](https://github.com/ssibongee/MPI/blob/master/img/eff_cmp.PNG?raw=true)
