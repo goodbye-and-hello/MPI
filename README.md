@@ -1,8 +1,7 @@
 # MPICH2  Clustering Project
 Since : 2018.06.05 ~ 2018.06.12
 
-Author : @ssibongee
-
+Author : [@ssibongee](https://github.com/ssibongee)
 
 
 We construct a clustering environment using four PCs (MPI) and compare the performance
